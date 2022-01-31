@@ -12,6 +12,8 @@ namespace intake42
         {
             double result= Sub.subfun(9, 7);
             Console.WriteLine(result);
+            int Res2 = Div.div(15, 3);
+            Console.WriteLine(Res2);
         }
     }
 }
