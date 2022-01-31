@@ -12,6 +12,9 @@ namespace intake42
         {
             double result= Sub.subfun(9, 7);
             Console.WriteLine(result);
+            sum sum1 = new sum();
+            double mySum = sum1.sumfunction(3, 4);
+            Console.WriteLine("sum = "+mySum);
         }
     }
 }
