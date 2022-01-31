@@ -43,10 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Div.cs" />
+=======
+    <Compile Include="mod.cs" />
+>>>>>>> b48c7bbd3124c0e1ea74d70ace591d795d48d8e1
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sub.cs" />
+    <Compile Include="sum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
