@@ -12,6 +12,10 @@ namespace intake42
         {
             double result= Sub.subfun(9, 7);
             Console.WriteLine(result);
+
+            Console.WriteLine("the mood :");
+            Console.WriteLine(mod.mood(10));
+
         }
     }
 }
