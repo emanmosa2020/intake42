@@ -10,6 +10,8 @@ namespace intake42
     {
         static void Main(string[] args)
         {
+            double result= Sub.subfun(9, 7);
+            Console.WriteLine(result);
         }
     }
 }
